@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.ebrahimipooria.followerstore"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.ebrahimipooria.followerstore"
