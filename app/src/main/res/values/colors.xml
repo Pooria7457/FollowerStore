@@ -2,4 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="coralCandy">#F7C4CD</color>
+    <color name="deepCerise">#d62977</color>
+    <color name="deepBlush">#EB6582</color>
+    <color name="downy">#77CCC6</color>
+    <color name="blueChill">#3F9092</color>
+    <color name="rum">#685F6D</color>
 </resources>
