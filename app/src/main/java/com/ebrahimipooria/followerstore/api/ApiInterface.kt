@@ -1,13 +1,13 @@
-package api
+package com.ebrahimipooria.followerstore.api
 
-import models.CommentOrderModel
-import models.NormalOrderModel
-import models.OrderModel
-import models.OrderStatusBodyModel
-import models.OrderStatusModel
-import models.ServicesBodyModel
-import models.ServicesModel
-import models.WalletModel
+import com.ebrahimipooria.followerstore.models.CommentOrderModel
+import com.ebrahimipooria.followerstore.models.NormalOrderModel
+import com.ebrahimipooria.followerstore.models.OrderModel
+import com.ebrahimipooria.followerstore.models.OrderStatusBodyModel
+import com.ebrahimipooria.followerstore.models.OrderStatusModel
+import com.ebrahimipooria.followerstore.models.ServicesBodyModel
+import com.ebrahimipooria.followerstore.models.ServicesModel
+import com.ebrahimipooria.followerstore.models.WalletModel
 import retrofit2.Call
 import retrofit2.http.Body
 import retrofit2.http.POST

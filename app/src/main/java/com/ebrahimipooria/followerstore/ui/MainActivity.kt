@@ -1,7 +1,8 @@
-package com.ebrahimipooria.followerstore
+package com.ebrahimipooria.followerstore.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.ebrahimipooria.followerstore.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

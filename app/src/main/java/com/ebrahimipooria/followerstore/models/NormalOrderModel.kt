@@ -1,8 +1,8 @@
-package models
+package com.ebrahimipooria.followerstore.models
 
 import com.google.gson.annotations.SerializedName
 
-data class CommentOrderModel(
+data class NormalOrderModel(
 
     @SerializedName("key")
     var key : String,
@@ -13,10 +13,10 @@ data class CommentOrderModel(
     @SerializedName("service")
     var service : Int,
 
-    @SerializedName("link ")
+    @SerializedName("link")
     var link : String,
 
-    @SerializedName("comments")
-    var comments : String
+    @SerializedName("quantity")
+    var quantity : Int
 
 )

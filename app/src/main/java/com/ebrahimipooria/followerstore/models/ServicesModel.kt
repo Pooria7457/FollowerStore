@@ -1,4 +1,4 @@
-package models
+package com.ebrahimipooria.followerstore.models
 
 import com.google.gson.annotations.SerializedName
 

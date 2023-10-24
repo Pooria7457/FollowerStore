@@ -1,4 +1,4 @@
-package api
+package com.ebrahimipooria.followerstore.api
 
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
